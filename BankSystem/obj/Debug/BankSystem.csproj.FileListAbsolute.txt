@@ -1,0 +1,6 @@
+C:\Users\Yashmith Pradhath\source\repos\BankSystem\bin\Debug\BankSystem.dll
+C:\Users\Yashmith Pradhath\source\repos\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\Yashmith Pradhath\source\repos\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\Users\Yashmith Pradhath\source\repos\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yashmith Pradhath\source\repos\BankSystem\obj\Debug\BankSystem.dll
+C:\Users\Yashmith Pradhath\source\repos\BankSystem\obj\Debug\BankSystem.pdb

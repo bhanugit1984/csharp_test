@@ -1,0 +1,10 @@
+C:\Users\Yashmith Pradhath\source\repos\BankClient\bin\Debug\BankClient.exe.config
+C:\Users\Yashmith Pradhath\source\repos\BankClient\bin\Debug\BankClient.exe
+C:\Users\Yashmith Pradhath\source\repos\BankClient\bin\Debug\BankClient.pdb
+C:\Users\Yashmith Pradhath\source\repos\BankClient\bin\Debug\BankSystem.dll
+C:\Users\Yashmith Pradhath\source\repos\BankClient\bin\Debug\BankSystem.pdb
+C:\Users\Yashmith Pradhath\source\repos\BankClient\obj\Debug\BankClient.csproj.AssemblyReference.cache
+C:\Users\Yashmith Pradhath\source\repos\BankClient\obj\Debug\BankClient.csproj.CoreCompileInputs.cache
+C:\Users\Yashmith Pradhath\source\repos\BankClient\obj\Debug\BankClient.csproj.CopyComplete
+C:\Users\Yashmith Pradhath\source\repos\BankClient\obj\Debug\BankClient.exe
+C:\Users\Yashmith Pradhath\source\repos\BankClient\obj\Debug\BankClient.pdb
